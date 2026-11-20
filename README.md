@@ -2,7 +2,7 @@
 
 四位数字密码解谜网页，适合剧本杀、课堂展示和现场活动。
 
-在线体验：https://island-signal-puzzle-ho.jasonho123.chatgpt.site
+在线体验：https://r94d11r07.github.io/island-signal/dist/
 
 ## 使用
 
